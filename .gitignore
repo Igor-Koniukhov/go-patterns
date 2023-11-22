@@ -1,0 +1,13 @@
+
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+.idea/
+.vscode/
+
+.env
+docs
+docs.go
